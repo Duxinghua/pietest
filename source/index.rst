@@ -10,7 +10,8 @@ PIEOPEN API
    :maxdepth: 2
    :caption: Contents:
 
-
+   readme/index
+   registered/index
    login_api/index
    bitpie_api/index
 

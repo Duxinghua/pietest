@@ -4,8 +4,8 @@
 比特派唤起流程图
 
 ..  image:: ../img/app_wake.png
-    :width: 178px
-    :height: 569px
+    :width: 377px
+    :height: 551px
     :scale: 100%
     :align: center
 

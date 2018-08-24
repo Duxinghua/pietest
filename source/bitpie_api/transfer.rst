@@ -4,7 +4,7 @@
 比特派转账流程图：
 
 ..  image:: ../img/transfer.png
-    :width: 108px
+    :width: 180px
     :height: 408px
     :scale: 100%
     :align: center

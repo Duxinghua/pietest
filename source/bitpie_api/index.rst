@@ -6,6 +6,8 @@
    :maxdepth: 2
    :caption: Contents:
 
-   wake.rst
+
    pay.rst
    transfer.rst
+   wake.rst
+   wakepay.rst

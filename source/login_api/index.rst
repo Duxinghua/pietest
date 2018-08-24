@@ -74,20 +74,20 @@
 获取用户信息
 -----------------------
 
-        **请求 API**
+        ** 请求 API **
             * ``url`` */api/v1/open/third/party/login/query/{hkey}*
             * ``method`` *POST*
             * ``content-type`` *application/json*
 
-        **参数**
+        ** 参数 **
             * ``appkey`` *(String)* -参数类型,*(App 标识)*
 
-        **返回值**
+        ** 返回值 **
             * ``hkey`` *QR标识*
             * ``status`` *登录状态值 0:初始化 1:扫描 2:登录 3:超时*
             * ``token``
             * ``bitid``
 
-        **返回值举例**::
+        ** 返回值举例 **::
 
                 {"status": "2","hkey": "525187332a0e4360972d8f1e53bb6306","token": "2119bfe22f4b41e7b595b84abce8824b","bitid": "****"}
